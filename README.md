@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/995eceb6-f132-4e0f-8c3a-8becc4caef8b)
+
 I) Project Overview
 A full-stack Employee Management System built with:
 -> Backend: Spring Boot, JPA, MySQL
